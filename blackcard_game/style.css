@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:#6D9886;
+    color: #001253;
+}
+h1{
+    color:#F7F7F7;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    background-color: #EEEEEE ;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 8px;
+}
+
+/* .add-el{
+    background-color: #EEEEEE ;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+
+} */
