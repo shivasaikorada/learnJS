@@ -17,6 +17,9 @@ button{
     border-radius: 2px;
     margin-bottom: 8px;
 }
+#player-el{
+    color: black;
+}
 
 /* .add-el{
     background-color: #EEEEEE ;
